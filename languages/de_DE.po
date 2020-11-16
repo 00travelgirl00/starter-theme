@@ -1,0 +1,642 @@
+# Translation of Themes - Twenty Twenty in German
+# This file is distributed under the same license as the Themes - Twenty Twenty package.
+msgid ""
+msgstr ""
+"Project-Id-Version: <PROJECT NAME>\n"
+"POT-Creation-Date: 2020-11-16 16:27+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-SearchPath-0: starter-child\n"
+"X-Poedit-SearchPath-1: twentytwenty\n"
+
+#: starter-child/functions.php:70
+msgid "Blue Sapphire"
+msgstr "Saphir Blau"
+
+#: starter-child/functions.php:75
+msgid "Celadon Blue"
+msgstr "Celadon Blau"
+
+#: starter-child/functions.php:80
+msgid "Blue Purple"
+msgstr "Blau Lila"
+
+#: starter-child/functions.php:85
+msgid "Pink Lavender"
+msgstr "Rosa Lavendel"
+
+#: starter-child/functions.php:90
+msgid "Cool Grey"
+msgstr "Kaltes Grau"
+
+#: starter-child/functions.php:95
+msgid "White"
+msgstr "Weiß"
+
+#: starter-child/functions.php:100
+msgid "Dark Grey"
+msgstr "Dunkel Grau"
+
+#: starter-child/functions.php:109
+msgid "Blue Sapphire to Celadon Blue"
+msgstr "Saphir Blau zu Celadon Blau"
+
+#: starter-child/functions.php:114
+msgid "Blue Purple to Pink Lavender"
+msgstr "Blau Lila zu Rosa Lavendel"
+
+#: starter-child/functions.php:133
+msgid "Teaser"
+msgstr "Teaser"
+
+#: starter-child/functions.php:134
+msgctxt "Block pattern description"
+msgid "Here should be a descirption of the pattern"
+msgstr "Hier sollte eine Descirption des Musters sein"
+
+#: twentytwenty/404.php:17
+msgid "Page Not Found"
+msgstr "Die Seite konnte nicht gefunden werden"
+
+#: twentytwenty/404.php:19
+msgid ""
+"The page you were looking for could not be found. It might have been "
+"removed, renamed, or did not exist in the first place."
+msgstr ""
+"Die gesuchte Seite konnte nicht gefunden werden. Sie wurde möglicherweise "
+"entfernt, umbenannt oder existierte von vornherein nicht."
+
+#: twentytwenty/404.php:24
+msgid "404 not found"
+msgstr "404 - Datei nicht gefunden"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:81
+msgid "Retina logo"
+msgstr "Retina-Logo"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:82
+msgid ""
+"Scales the logo to half its uploaded size, making it sharp on high-res "
+"screens."
+msgstr ""
+"Skaliert das Logo auf die Hälfte der hochgeladenen Größe und wird so auf "
+"hochauflösenden Bildschirmen scharf wiedergegeben."
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:101
+msgid "Header &amp; Footer Background Color"
+msgstr "Hintergrundfarbe für Header und Footer"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:123
+msgid "Primary Color"
+msgstr "Akzentfarbe"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:125
+msgid "Default"
+msgstr "Standard"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:126
+msgid "Custom"
+msgstr "Individuell"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:183
+msgid "Apply a custom color for links, buttons, featured images."
+msgstr "Wähle für Links, Buttons und Beitragsbilder eine eigene Farbe."
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:202
+msgid "Theme Options"
+msgstr "Theme-Optionen"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:225
+msgid "Show search in header"
+msgstr "Suchfeld im Header anzeigen"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:246
+msgid "Show author bio"
+msgstr "Autor-Biografie anzeigen"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:267
+msgid "On archive pages, posts show:"
+msgstr "Zeige auf Archivseiten, Beiträgen:"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:269
+msgid "Full text"
+msgstr "Vollständigen Text"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:270
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:281
+msgid "Cover Template"
+msgstr "Cover-Template"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:283
+msgid ""
+"Settings for the \"Cover Template\" page template. Add a featured image to "
+"use as background."
+msgstr ""
+"Einstellungen für das Seitentemplate „Cover-Template“. Füge ein Beitragsbild "
+"als Hintergrund hinzu."
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:305
+msgid "Fixed Background Image"
+msgstr "Fixiertes Hintergrundbild"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:306
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "Erstellt einen Parallex-Effekt, wenn der Besucher die Seite scrollt."
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:352
+msgid "Overlay Background Color"
+msgstr "Overlay-Hintergrundfarbe"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:353
+msgid "The color used for the overlay. Defaults to the accent color."
+msgstr "Die für das Overlay genutzte Farbe. Standard ist die Akzentfarbe."
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:374
+msgid "Overlay Text Color"
+msgstr "Overlay-Textfarbe"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:375
+msgid "The color used for the text in the overlay."
+msgstr "Die für den Text im Overlay benutzte Farbe."
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:395
+msgid "Overlay Opacity"
+msgstr "Deckkraft für den Overlay-Effekt"
+
+#: twentytwenty/classes/class-twentytwenty-customize.php:396
+msgid ""
+"Make sure that the contrast is high enough so that the text is readable."
+msgstr ""
+"Achte darauf, den Kontrast so hoch einzustellen, dass der Text gut lesbar "
+"bleibt."
+
+#: twentytwenty/classes/class-twentytwenty-walker-comment.php:56
+msgid "says:"
+msgstr "sagt:"
+
+#: twentytwenty/classes/class-twentytwenty-walker-comment.php:69
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: twentytwenty/classes/class-twentytwenty-walker-comment.php:77
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: twentytwenty/classes/class-twentytwenty-walker-comment.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freigabe."
+
+#: twentytwenty/classes/class-twentytwenty-walker-comment.php:127
+msgid "By Post Author"
+msgstr "Vom Beitragsautor"
+
+#: twentytwenty/classes/class-twentytwenty-walker-page.php:70
+#, php-format
+msgid "#%d (no title)"
+msgstr "#%d (kein Titel)"
+
+#: twentytwenty/classes/class-twentytwenty-walker-page.php:107
+#: twentytwenty/inc/template-tags.php:558
+msgid "Show sub menu"
+msgstr "Untermenü anzeigen"
+
+#: twentytwenty/comments.php:34
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: twentytwenty/comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr "Eine Antwort auf „%s“"
+
+#: twentytwenty/comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Antwort auf „%2$s“"
+msgstr[1] "%1$s Antworten auf „%2$s“"
+
+#: twentytwenty/comments.php:74
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: twentytwenty/comments.php:75
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: twentytwenty/comments.php:88
+msgid "Comments"
+msgstr "Kommentare"
+
+#: twentytwenty/comments.php:127
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: twentytwenty/footer.php:25
+msgctxt "copyright date format"
+msgid "Y"
+msgstr "Y"
+
+#: twentytwenty/footer.php:32
+msgid "https://wordpress.org/"
+msgstr "https://de.wordpress.org/"
+
+#: twentytwenty/footer.php:33
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: twentytwenty/footer.php:43
+#, php-format
+msgid "To the top %s"
+msgstr "Nach oben %s"
+
+#: twentytwenty/footer.php:49
+#, php-format
+msgid "Up %s"
+msgstr "Hoch %s"
+
+#: twentytwenty/functions.php:258
+msgid "Desktop Horizontal Menu"
+msgstr "Horizontales Desktop-Menü"
+
+#: twentytwenty/functions.php:259
+msgid "Desktop Expanded Menu"
+msgstr "Erweitertes Desktop-Menü"
+
+#: twentytwenty/functions.php:260
+msgid "Mobile Menu"
+msgstr "Mobile-Menü"
+
+#: twentytwenty/functions.php:261
+msgid "Footer Menu"
+msgstr "Footer-Menü"
+
+#: twentytwenty/functions.php:262
+msgid "Social Menu"
+msgstr "Social-Media-Menü"
+
+#: twentytwenty/functions.php:340
+msgid "Skip to the content"
+msgstr "Direkt zum Inhalt wechseln"
+
+#: twentytwenty/functions.php:365
+msgid "Footer #1"
+msgstr "Footer #1"
+
+#: twentytwenty/functions.php:367
+msgid ""
+"Widgets in this area will be displayed in the first column in the footer."
+msgstr ""
+"Widgets in diesem Bereich werden in der ersten Spalte des Footers angezeigt."
+
+#: twentytwenty/functions.php:377
+msgid "Footer #2"
+msgstr "Footer #2"
+
+#: twentytwenty/functions.php:379
+msgid ""
+"Widgets in this area will be displayed in the second column in the footer."
+msgstr ""
+"Widgets in diesem Bereich werden in der zweiten Spalte des Footers angezeigt."
+
+#: twentytwenty/functions.php:484
+msgid "Accent Color"
+msgstr "Akzentfarbe"
+
+#: twentytwenty/functions.php:489 twentytwenty/inc/starter-content.php:177
+#: twentytwenty/inc/starter-content.php:187
+msgid "Primary"
+msgstr "Primär"
+
+#: twentytwenty/functions.php:494
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: twentytwenty/functions.php:499
+msgid "Subtle Background"
+msgstr "Dezenter Hintergrund"
+
+#: twentytwenty/functions.php:512
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: twentytwenty/functions.php:527
+msgctxt "Name of the small font size in the block editor"
+msgid "Small"
+msgstr "Klein"
+
+#: twentytwenty/functions.php:528
+msgctxt "Short name of the small font size in the block editor."
+msgid "S"
+msgstr "S"
+
+#: twentytwenty/functions.php:533
+msgctxt "Name of the regular font size in the block editor"
+msgid "Regular"
+msgstr "Normal"
+
+#: twentytwenty/functions.php:534
+msgctxt "Short name of the regular font size in the block editor."
+msgid "M"
+msgstr "M"
+
+#: twentytwenty/functions.php:539
+msgctxt "Name of the large font size in the block editor"
+msgid "Large"
+msgstr "Groß"
+
+#: twentytwenty/functions.php:540
+msgctxt "Short name of the large font size in the block editor."
+msgid "L"
+msgstr "L"
+
+#: twentytwenty/functions.php:545
+msgctxt "Name of the larger font size in the block editor"
+msgid "Larger"
+msgstr "Größer"
+
+#: twentytwenty/functions.php:546
+msgctxt "Short name of the larger font size in the block editor."
+msgid "XL"
+msgstr "XL"
+
+#: twentytwenty/header.php:53 twentytwenty/header.php:157
+msgid "Search"
+msgstr "Suche"
+
+#: twentytwenty/header.php:76 twentytwenty/header.php:137
+msgid "Menu"
+msgstr "Menü"
+
+#: twentytwenty/header.php:88
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: twentytwenty/inc/starter-content.php:39
+msgctxt "Theme starter content"
+msgid "The New UMoMA Opens its Doors"
+msgstr "Das neue Museum öffnet seine Türen"
+
+#: twentytwenty/inc/starter-content.php:48
+msgid "The New UMoMA Opens its Doors"
+msgstr "Das neue Museum öffnet seine Türen"
+
+#: twentytwenty/inc/starter-content.php:56
+msgid ""
+"The premier destination for modern art in Northern Sweden. Open from 10 AM "
+"to 6 PM every day during the summer months."
+msgstr ""
+"Die erste Adresse für Moderne Kunst in Nordschweden. In den Sommermonaten "
+"täglich von 10 bis 18 Uhr geöffnet."
+
+#: twentytwenty/inc/starter-content.php:67
+msgid "Works and Days"
+msgstr "Werke und Tage"
+
+#: twentytwenty/inc/starter-content.php:70
+#: twentytwenty/inc/starter-content.php:102
+msgid "August 1 -- December 1"
+msgstr "1. August – 1. Dezember"
+
+#: twentytwenty/inc/starter-content.php:73
+#: twentytwenty/inc/starter-content.php:88
+#: twentytwenty/inc/starter-content.php:105
+#: twentytwenty/inc/starter-content.php:120
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: twentytwenty/inc/starter-content.php:82
+msgid "Theatre of Operations"
+msgstr "Kreative Schauplätze"
+
+#: twentytwenty/inc/starter-content.php:85
+#: twentytwenty/inc/starter-content.php:117
+msgid "October 1 -- December 1"
+msgstr "1. Oktober – 1. Dezember"
+
+#: twentytwenty/inc/starter-content.php:99
+msgid "The Life I Deserve"
+msgstr "Leben und leben lassen"
+
+#: twentytwenty/inc/starter-content.php:114
+msgid "From Signac to Matisse"
+msgstr "Von Signac bis Matisse"
+
+#: twentytwenty/inc/starter-content.php:130
+msgid ""
+"&#8220;Cyborgs, as the philosopher Donna Haraway established, are not "
+"reverent. They do not remember the cosmos.&#8221;"
+msgstr ""
+"&#8222;Cyborgs, wie die Philosophin Donna Haraway feststellte, sind nicht "
+"ehrfürchtig. Sie erinnern sich nicht an den Kosmos.&#8220;"
+
+#: twentytwenty/inc/starter-content.php:134
+msgid ""
+"With seven floors of striking architecture, UMoMA shows exhibitions of "
+"international contemporary art, sometimes along with art historical "
+"retrospectives. Existential, political and philosophical issues are "
+"intrinsic to our programme. As visitor you are invited to guided tours "
+"artist talks, lectures, film screenings and other events with free admission"
+msgstr ""
+"Auf sieben Etagen beeindruckender Architektur zeigt das neue Museum diverse "
+"Ausstellungen internationaler und zeitgenössischer Kunst, teilweise im "
+"Rahmen kunsthistorischer Retrospektiven. Existenzielle, politische und "
+"philosophische Fragen sind Bestandteil unseres Programms. Unsere Besucher "
+"sind herzlich eingeladen zu Führungen, Künstlergesprächen, Vorträgen, "
+"Filmvorführungen und anderen Veranstaltungen mit teils freiem Eintritt."
+
+#: twentytwenty/inc/starter-content.php:137
+msgid ""
+"The exhibitions are produced by UMoMA in collaboration with artists and "
+"museums around the world and they often attract international attention. "
+"UMoMA has received a Special Commendation from the European Museum of the "
+"Year, and was among the top candidates for the Swedish Museum of the Year "
+"Award as well as for the Council of Europe Museum Prize."
+msgstr ""
+"Die Ausstellungen werden vom „Museum der Zukunft“ in Zusammenarbeit mit "
+"Künstlern und Museen auf der ganzen Welt produziert und finden oft "
+"internationale Anerkennung. Das Museum wurde vom Europäischen Museum des "
+"Jahres mit einer besonderen Auszeichnung gewürdigt und gehörte zu den "
+"Spitzenkandidaten für den schwedischen Museum of the Year Award, sowie für "
+"den Museumspreis des Europarates."
+
+#: twentytwenty/inc/starter-content.php:145
+msgid "Become a Member and Get Exclusive Offers!"
+msgstr "Werde Mitglied und erhalte exklusive Angebote!"
+
+#: twentytwenty/inc/starter-content.php:148
+msgid ""
+"Members get access to exclusive exhibits and sales. Our memberships cost "
+"$99.99 and are billed annually."
+msgstr ""
+"Alle Mitglieder erhalten Zugang zu exklusiven Ausstellungen und Angeboten. "
+"Die Mitgliedschaft kostet 99.99&nbsp;€ und wird jährlich abgerechnet."
+
+#: twentytwenty/inc/starter-content.php:151
+msgid "Join the Club"
+msgstr "Mitglied werden"
+
+#: twentytwenty/inc/starter-content.php:197
+msgid "Social Links Menu"
+msgstr "Social-Links-Menü"
+
+#: twentytwenty/inc/template-tags.php:207
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span> bearbeiten"
+
+#: twentytwenty/inc/template-tags.php:350
+msgid "Post author"
+msgstr "Beitragsautor"
+
+#: twentytwenty/inc/template-tags.php:357
+#: twentytwenty/template-parts/entry-author-bio.php:20
+#, php-format
+msgid "By %s"
+msgstr "Von %s"
+
+#: twentytwenty/inc/template-tags.php:374
+msgid "Post date"
+msgstr "Beitragsdatum"
+
+#: twentytwenty/inc/template-tags.php:392
+#: twentytwenty/template-parts/content-cover.php:70
+#: twentytwenty/template-parts/entry-header.php:36
+msgid "Categories"
+msgstr "Kategorien"
+
+#: twentytwenty/inc/template-tags.php:396
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr "In"
+
+#: twentytwenty/inc/template-tags.php:410
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: twentytwenty/inc/template-tags.php:448
+msgid "Sticky post"
+msgstr "Beitrag oben halten"
+
+#: twentytwenty/index.php:32
+msgid "Search:"
+msgstr "Suchen:"
+
+#: twentytwenty/index.php:40
+#, php-format
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "Es gibt %s Treffer für deine Suche."
+msgstr[1] "Es gibt %s Treffer für deine Suche."
+
+#: twentytwenty/index.php:48
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form below."
+msgstr ""
+"Es konnten keine Ergebnisse für deine Suche gefunden werden. Du kannst es "
+"über das untenstehende Suchformular erneut versuchen."
+
+#: twentytwenty/index.php:51
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: twentytwenty/index.php:101
+msgid "search again"
+msgstr "erneut suchen"
+
+#: twentytwenty/searchform.php:24
+#: twentytwenty/template-parts/modal-search.php:20
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: twentytwenty/searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suche &hellip;"
+
+#: twentytwenty/searchform.php:27
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: twentytwenty/template-parts/content-cover.php:88
+msgid "Scroll Down"
+msgstr "Nach unten scrollen"
+
+#: twentytwenty/template-parts/content-cover.php:138
+#: twentytwenty/template-parts/content.php:48
+msgid "Page"
+msgstr "Seite"
+
+#: twentytwenty/template-parts/content-cover.php:138
+#: twentytwenty/template-parts/content.php:48
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: twentytwenty/template-parts/content.php:36
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+#: twentytwenty/template-parts/entry-author-bio.php:29
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr "Archiv anzeigen <span aria-hidden=\"true\">&rarr;</span>"
+
+#: twentytwenty/template-parts/footer-menus-widgets.php:37
+msgid "Footer"
+msgstr "Footer"
+
+#: twentytwenty/template-parts/footer-menus-widgets.php:57
+msgid "Social links"
+msgstr "Social-Media-Links"
+
+#: twentytwenty/template-parts/modal-menu.php:21
+msgid "Close Menu"
+msgstr "Menü schließen"
+
+#: twentytwenty/template-parts/modal-menu.php:48
+msgid "Expanded"
+msgstr "Erweitert"
+
+#: twentytwenty/template-parts/modal-menu.php:73
+msgid "Mobile"
+msgstr "Mobile"
+
+#: twentytwenty/template-parts/modal-menu.php:117
+msgid "Expanded Social links"
+msgstr "Erweiterte Social-Media-Links"
+
+#: twentytwenty/template-parts/modal-search.php:26
+msgid "Close search"
+msgstr "Suche schließen"
+
+#: twentytwenty/template-parts/navigation.php:25
+msgid "Post"
+msgstr "Beitrag"
+
+#: twentytwenty/template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr "Neuere <span class=\"nav-short\">Beiträge</span>"
+
+#: twentytwenty/template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr "Ältere <span class=\"nav-short\">Beiträge</span>"

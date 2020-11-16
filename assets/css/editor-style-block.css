@@ -1,0 +1,103 @@
+/* ------------------------------------------- */
+
+/*	Starter Child Editor Styles — Block Editor
+/* ------------------------------------------- */
+
+/* Block Colors*/
+.has-blue-sapphire-color {
+    color: #0b4f6c;
+}
+.has-blue-sapphire-background-color,
+.wp-block-button__link:not(.has-background) {
+    background-color: #0b4f6c;
+    color: #fff;
+}
+.has-blue-sapphire-background-color:hover,
+.wp-block-button__link:not(.has-background):hover {
+    background-color: #117aa7;
+}
+
+.has-celadon-blue-color {
+    color: #117aa7;
+}
+
+.has-celadon-blue-background-color {
+    background-color: #117aa7;
+    color: #fff;
+}
+.has-celadon-blue-background-color:hover {
+    background-color: #0b4f6c;
+}
+
+.has-blue-purple-color {
+    color: #c7b8ea;
+}
+.has-blue-purple-background-color {
+    background-color: #c7b8ea;
+    color: #000;
+}
+.has-blue-purple-background-color:hover {
+    background-color: #d8a7ca;
+}
+
+.has-pink-lavender-color {
+    color: #d8a7ca;
+}
+.has-pink-lavender-background-color {
+    background-color: #d8a7ca;
+    color: #000;
+}
+.has-pink-lavender-background-color:hover {
+    background-color: #c7b8ea;
+}
+
+.has-cool-grey-color {
+    color: #9b97b2;
+}
+.has-cool-grey-background-color {
+    background-color: #9b97b2;
+    color: #fff;
+}
+.has-cool-grey-background-color:hover {
+    background-color: #444444;
+}
+
+.has-white-color {
+    color: #fff;
+}
+.has-white-background-color {
+    background-color: #fff;
+    color: #000;
+}
+.has-white-background-color:hover {
+    background-color: #bbb;
+}
+
+.has-dark-grey-color {
+    color: #444444;
+}
+.has-dark-grey-background-color {
+    background-color: #444444;
+    color: #fff;
+}
+.has-dark-grey-background-color:hover {
+    background-color: #222222;
+}
+
+
+/*style color gradient*/
+.has-blue-sapphire-to-celadon-blue-gradient-background {
+    background: linear-gradient(307deg, rgba(11,79,108,1) 0%, rgba(17,122,167,1) 66%);
+    color: #fff;
+}
+.has-blue-sapphire-to-celadon-blue-gradient-background:hover {
+    background: linear-gradient(90deg, rgba(199,184,234,1) 0%, rgba(216,167,202,1) 69%);
+}
+
+.has-blue-purple-to-pink-lavender-gradient-background {
+    background: linear-gradient(90deg, rgba(199,184,234,1) 0%, rgba(216,167,202,1) 69%);
+    color: #000;
+}
+.has-blue-purple-to-pink-lavender-gradient-background:hover {
+    background: linear-gradient(307deg, rgba(11,79,108,1) 0%, rgba(17,122,167,1) 66%);
+}

@@ -1,0 +1,198 @@
+/*
+Theme Name:   Starter Child
+Theme URI:    Domain of the Theme
+Description:  Child of Twenty Twenty
+Author:       Your Name
+Author URI:   Your Domain
+Template:     twentytwenty
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* == Add your own styles below this line ==
+--------------------------------------------*/
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Reset
+ * 2.0 - General Styles
+ * 3.0 - Links + Custom Colors
+ * 4.0 - Header
+ * 5.0 - Posts
+ *   5.1 - Single Posts
+ *   5.2 - Comments
+ * 6.0 - Post Formats
+ * 7.0 - Blocks
+ * 8.0 - Blog + Post Paginations
+ * 9.0 - Archives / Search Results / 404
+ * 10.0 - Standard + Archive Page
+ * 11.0 - Widgets
+ * 12.0 - Footer
+ * 13.0 - Shortcodes
+ * 14.0 - Plugins
+ * 15.0 - Media Queries
+ * 16.0 - HiDPI (=Retina) Displays
+ * 17.0 - Print
+ * --------------------------------------------------------------------------------------------
+ */
+
+/* 1.0 - Reset
+-------------------------------------------------------------- */
+
+/* 2.0 - General Styles
+-------------------------------------------------------------- */
+
+/* Load Fonts here*/
+
+/* 3.0 - Links + Custom Colors
+-------------------------------------------------------------- */
+
+/* 4.0 - Header
+-------------------------------------------------------------- */
+
+/* 5.0 - Posts
+-------------------------------------------------------------- */
+
+/* 5.1 - Single Posts
+-------------------------------------------------------------- */
+
+/* 5.2 - Comments
+-------------------------------------------------------------- */
+
+/* 6.0 - Post Formats
+-------------------------------------------------------------- */
+
+/* 7.0 - Blocks
+-------------------------------------------------------------- */
+
+/* Block Colors*/
+.has-blue-sapphire-color {
+    color: #0b4f6c;
+}
+.has-blue-sapphire-background-color,
+.wp-block-button__link:not(.has-background) {
+    background-color: #0b4f6c;
+    color: #fff;
+}
+.has-blue-sapphire-background-color:hover,
+.wp-block-button__link:not(.has-background):hover {
+    background-color: #117aa7;
+}
+
+.has-celadon-blue-color {
+    color: #117aa7;
+}
+.has-celadon-blue-background-color {
+    background-color: #117aa7;
+    color: #fff;
+}
+.has-celadon-blue-background-color:hover {
+    background-color: #0b4f6c;
+}
+
+.has-blue-purple-color {
+    color: #c7b8ea;
+}
+.has-blue-purple-background-color {
+    background-color: #c7b8ea;
+    color: #000;
+}
+.has-blue-purple-background-color:hover {
+    background-color: #d8a7ca;
+}
+
+.has-pink-lavender-color {
+    color: #d8a7ca;
+}
+.has-pink-lavender-background-color {
+    background-color: #d8a7ca;
+    color: #000;
+}
+.has-pink-lavender-background-color:hover {
+    background-color: #c7b8ea;
+}
+
+.has-cool-grey-color {
+    color: #9b97b2;
+}
+.has-cool-grey-background-color {
+    background-color: #9b97b2;
+    color: #fff;
+}
+.has-cool-grey-background-color:hover {
+    background-color: #444444;
+}
+
+.has-white-color {
+    color: #fff;
+}
+.has-white-background-color {
+    background-color: #fff;
+    color: #000;
+}
+.has-white-background-color:hover {
+    background-color: #bbb;
+}
+
+.has-dark-grey-color {
+    color: #444444;
+}
+.has-dark-grey-background-color {
+    background-color: #444444;
+    color: #fff;
+}
+.has-dark-grey-background-color:hover {
+    background-color: #222222;
+}
+
+
+.has-blue-sapphire-to-celadon-blue-gradient-background {
+    background: linear-gradient(307deg, rgba(11,79,108,1) 0%, rgba(17,122,167,1) 66%);
+    color: #fff;
+}
+.has-blue-sapphire-to-celadon-blue-gradient-background:hover {
+    background: linear-gradient(90deg, rgba(199,184,234,1) 0%, rgba(216,167,202,1) 69%);
+}
+
+.has-blue-purple-to-pink-lavender-gradient-background {
+    background: linear-gradient(90deg, rgba(199,184,234,1) 0%, rgba(216,167,202,1) 69%);
+    color: #000;
+}
+.has-blue-purple-to-pink-lavender-gradient-background:hover {
+    background: linear-gradient(307deg, rgba(11,79,108,1) 0%, rgba(17,122,167,1) 66%);
+}
+
+
+
+
+
+/* 8.0 - Blog + Post Paginations
+-------------------------------------------------------------- */
+
+/* 9.0 - Archives / Search Results / 404
+-------------------------------------------------------------- */
+
+/* 10.0 - Standard + Archive Page
+-------------------------------------------------------------- */
+
+/* 11.0 - Widgets
+-------------------------------------------------------------- */
+
+/* 12.0 - Footer
+-------------------------------------------------------------- */
+
+/* 13.0 - Shortcodes
+-------------------------------------------------------------- */
+
+/* 14.0 - Plugins
+-------------------------------------------------------------- */
+
+/* 15.0 - Media Queries
+-------------------------------------------------------------- */
+
+/* 16.0 - HiDPI (=Retina) Displays
+-------------------------------------------------------------- */
+
+/* 17.0 - Print
+-------------------------------------------------------------- */
