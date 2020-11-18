@@ -128,12 +128,32 @@ add_action( 'after_setup_theme', 'starter_child_gutenberg_support', 11 );
 /* Register Block Patterns */
 
 register_block_pattern(
-	'unique-pattern-name',
+	'pullquote-cover-block',
 	array(
-		'title' => __( 'Teaser', 'starter-child' ),
-		'description' => _x( 'Here should be a descirption of the pattern', 'Block pattern description', 'starter-child' ),
-		'categories'  => array('buttons'),
-		'content'     => "Code vom Block Editor",
+		'title' => __( 'Pullquote in Cover Block', 'starter-child' ),
+		'description' => _x( 'Pullquote over a cover block with color gradient', 'Block pattern description', 'starter-child' ),
+		'categories'  => array('header'),
+		'content'     => "<!-- wp:cover {\"minHeight\":575,\"minHeightUnit\":\"px\",\"gradient\":\"blue-sapphire-to-celadon-blue\",\"contentPosition\":\"center center\",\"align\":\"full\"} -->
+<div class=\"wp-block-cover alignfull has-background-dim has-background-gradient has-blue-sapphire-to-celadon-blue-gradient-background is-position-center-center\" style=\"min-height:575px\"><div class=\"wp-block-cover__inner-container\"><!-- wp:columns {\"align\":\"wide\"} -->
+<div class=\"wp-block-columns alignwide\"><!-- wp:column {\"width\":12} -->
+<div class=\"wp-block-column\" style=\"flex-basis:12%\"><!-- wp:spacer -->
+<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class=\"wp-block-column\"><!-- wp:pullquote {\"textColor\":\"white\",\"align\":\"full\",\"className\":\"is-style-default\"} -->
+<figure class=\"wp-block-pullquote alignfull is-style-default\"><blockquote class=\"has-text-color has-white-color\"><p>Die höchste Form des Glücks ist ein Leben mit einem gewissen Grad an Verrücktheit</p><cite>Erasmus von Rotterdam</cite></blockquote></figure>
+<!-- /wp:pullquote --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {\"width\":12} -->
+<div class=\"wp-block-column\" style=\"flex-basis:12%\"><!-- wp:spacer -->
+<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:cover -->",
 	)
 );
 
